@@ -5,7 +5,7 @@ I'm trying to start with Java, but I don't know how to start. I've whatched some
 
     package com.company;
 
-    public class HelloWorldApp {
+    class HelloWorldApp {
         public static void main(String[] args) {
             System.out.println("Hello World");
       
