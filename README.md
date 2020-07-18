@@ -5,12 +5,11 @@ I'm trying to start with Java, but I don't know how to start. I've whatched some
 
 package com.company;
 
-
-  class HelloWorldApp {
-    public static void main(String[] args) {    
+public class HelloWorldApp {
+    public static void main(String[] args) {
         System.out.println("Hello World"!);
       
-        }
+    }
 }
 
 I want to learn more, just for fun, thats it :)
